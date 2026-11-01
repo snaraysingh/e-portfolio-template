@@ -179,28 +179,26 @@ a:hover {
 /* Footer */
 
 #footer {
-	height: 100px;
-	margin: 0 auto;
-	padding: 50px 0px 0px 0px;
+	background: #101F38;
+	padding: 30px 0px;
+	text-align: center;
 }
 
 #footer p {
-	margin: 0;
-	padding-top: 10px;
-	line-height: normal;
-	text-align: center;
-	text-shadow: 1px 1px 0px #FFFFFF;
-	color: #909090;
+	margin: 5px 0;
+	padding-top: 13px;
+	line-height: 1.6;
+	color: #F8F5EF;
 }
 
 #footer a {
-	text-decoration: underline;
-	color: #909090;
+	color: #D9C4A0;
+	text-decoration: none;
 }
 
 #footer a:hover {
+	color: #FFFFFF;
 	text-decoration: none;
-	color: #383838;
 }
 
 .box1 {
