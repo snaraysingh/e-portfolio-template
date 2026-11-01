@@ -78,7 +78,8 @@ a:hover {
 
 #logo {
 	height: auto;
-	padding: 20px 0 10px;
+	padding: 20px 0 10px 20px;
+	box-sizing: border-box;
 }
 
 #logo h1, #logo h2, #logo p {
