@@ -157,14 +157,14 @@ a:hover {
 
 #menu a {
 	display: block;
-	padding: 0px 30px;
+	padding: 0px 22px;
 	line-height: 52px;
 	border: none;
 	text-decoration: none;
 	text-align: center;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Oxygen', sans-serif;
 	font-size: 14px;
-	font-weight: 300;
+	font-weight: 500;
 	color: #F8F5EF;
 }
 
