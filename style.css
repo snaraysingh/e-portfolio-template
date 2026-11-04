@@ -9,7 +9,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background: #F8F5EF;
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'Calibri', sans-serif;
 	font-size: 13px;
 	color: #374151;
 }
@@ -96,7 +96,7 @@ a:hover {
 	padding: 15px 0;
 	letter-spacing: 0px;
 	text-transform: capitalize;
-	font-family: Oxygen, serif;
+	font-family: Calibri, serif;
 	font-size: 48px;
 	color: #101F38;
 }
@@ -163,7 +163,7 @@ a:hover {
 	border: none;
 	text-decoration: none;
 	text-align: center;
-	font-family: 'Oxygen', sans-serif;
+	font-family: 'Calibri', sans-serif;
 	font-size: 14px;
 	font-weight: 500;
 	color: #F8F5EF;
