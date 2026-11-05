@@ -231,6 +231,7 @@ a:hover {
 #three-column {
 	overflow: hidden;
 	padding: 10px 0px 50px 0px;
+	margin-bottom: 30px;
 }
 
 #three-column .tbox1 {
