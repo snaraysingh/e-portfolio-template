@@ -253,7 +253,7 @@ a:hover {
 .box-style {
 	background: #F8F5EF;
 	text-align: center;
-	border-top: 4px solid #D9C4A0;
+	border: 2px solid #D9C4A0;
 	min-height: 340px;
 	border-radius: 6px;
 }
