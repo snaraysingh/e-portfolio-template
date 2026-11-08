@@ -265,6 +265,15 @@ a:hover {
 	color: #101F38;
 }
 
+.box-style h2::after {
+	content: "";
+	display: block;
+	width: 65px;
+	height: 2px;
+	background: #D9C4A0;
+	margin: 12px auto 0;
+}
+
 .box-style .content {
 	width: 324px;
 	padding: 30px;
