@@ -335,6 +335,9 @@ a:hover {
 
 #three-column.image-projects .box-style .content {
     text-align: center;
+	width: 100%;
+	box-sizing: border-box;
+	margin: 0 auto;
 }
 
 #three-column.image-projects .box-style img {
