@@ -342,8 +342,7 @@ a:hover {
 
 #three-column.image-projects .box-style img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 15px auto;
 	max-width: 500px;
 	height: auto;
 }
