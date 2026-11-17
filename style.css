@@ -346,3 +346,10 @@ a:hover {
 	max-width: 500px;
 	height: auto;
 }
+
+/* Reduce spacing below Image Editing projects */
+
+#three-column.image-projects {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
