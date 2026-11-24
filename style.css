@@ -349,6 +349,7 @@ a:hover {
 /* Reduce spacing below Image Editing projects */
 
 #three-column.image-projects {
-    padding-bottom: 0;
+    padding-bottom: 40px;
     margin-bottom: 0;
 }
+
