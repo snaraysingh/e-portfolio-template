@@ -353,3 +353,15 @@ a:hover {
     margin-bottom: 0;
 }
 
+
+/* Mobile App Page - Project Spacing */
+
+.mobile-project p {
+    min-height: 0;
+    margin-bottom: 15px;
+}
+
+.mobile-project .button {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
