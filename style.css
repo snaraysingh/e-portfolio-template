@@ -365,3 +365,38 @@ a:hover {
     margin-top: 15px;
     margin-bottom: 10px;
 }
+
+/* Project Reflection*/
+
+.project-reflection {
+    width: 85%;
+    margin: 30px auto 50px;
+    padding: 20px 30px;
+    box-sizing: border-box;
+}
+
+.project-reflection h2 {
+    font-size: 24px;
+    font-weight: 500;
+    color: #101F38;
+    text-transform: capitalize;
+    text-align: left;
+}
+
+.project-reflection h2::after {
+    content: "";
+    display: block;
+    width: 65px;
+    height: 2px;
+    background: #D9C4A0;
+    margin: 12px 0 25px;
+}
+
+.project-reflection p {
+    font-size: 16px;
+    line-height: 1.8;
+    color: #374151;
+    text-align: left;
+    min-height: 0;
+    margin-bottom: 15px;
+}
