@@ -323,13 +323,13 @@ a:hover {
 /* Image Editing Page - Vertical Project Layout */
 
 #three-column.image-projects .tbox1,
-#three-column.image-projects .tbox2 {
+#three-column.image-projects .tbox2,
+#three-column.image-projects .tbox3 {
     float: none;
     width: 75%;
     margin: 0 auto 30px;
     box-sizing: border-box;
 }
-
 /* Center content on Image Editing project cards */
 
 #three-column.image-projects .box-style .content {
