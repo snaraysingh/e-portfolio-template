@@ -326,7 +326,7 @@ a:hover {
 #three-column.image-projects .tbox2,
 #three-column.image-projects .tbox3 {
     float: none;
-    width: 75%;
+    width: 85%;
     margin: 0 auto 30px;
     box-sizing: border-box;
 }
